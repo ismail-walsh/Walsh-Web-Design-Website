@@ -1,9 +1,8 @@
-**Description:**
-Explore Walsh Web Design's portfolio repository showcasing the code behind my personal website. Discover innovative web solutions, creative designs, and seamless user experiences.
-
 # Walsh Web Design Portfolio
 
 Welcome to the Walsh Web Design Portfolio repository! This project presents the codebase for my personal portfolio website. Experience the synergy of creativity and technology, highlighting my web design journey.
+
+Explore Walsh Web Design's portfolio repository showcasing the code behind my personal website. Discover innovative web solutions, creative designs, and seamless user experiences.
 
 ## Features
 
