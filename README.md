@@ -31,7 +31,5 @@ Your suggestions and feedback are invaluable! Feel free to open issues or pull r
 ## Contact
 
 Let's embark on a design journey together:
-- Portfolio: [Walsh Web Design](https://www.walshwebdesign.com)
-- Email: contact@walshwebdesign.com
+- Email: i.walsh98@hotmail.co.uk
 
-Join me in shaping digital experiences that leave a lasting impression! 🚀
