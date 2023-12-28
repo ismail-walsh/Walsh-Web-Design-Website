@@ -416,7 +416,7 @@
               <p class="f-paragraph-large-4">Expand your business reach and territory. Let us know how we can help expand your borders.</p>
             </div>
             <div class="w-form">
-              <form id="contact-form" name="contact-form" method="post" class="f-contact-form" onsubmit="sendEmail(); return false;">
+              <form name="contact-form" netlify>
                 <div class="f-margin-bottom-130">
                   <label for="contact-name" class="f-field-label">Name</label>
                   <input type="text" class="f-field-input w-input" maxlength="256" name="contact-name" placeholder="" id="contact-name">
@@ -444,28 +444,6 @@
           </div>
         </div>
       </div>
-      <script src="https://smtpjs.com/v3/smtp.js"></script>
-      <script>
-        function sendEmail() {
-          Email.send({
-            Host: "smtp.elasticemail.com",
-            Username: "ismail.walsh1@gmail.com", // Replace with your Gmail username
-            Password: "656C5E4F39F2A36940638BBCE20C3FB28929", // Replace with your Gmail password
-            To: 'ismail.walsh1@gmail.com',
-            From: 'ismail.walsh1@gmail.com',
-            Subject: "New Contact Form Submission",
-            Body: 
-              "\nName: "
-              + document.getElementById("contact-name").value
-              + "\nEmail: "
-              + document.getElementById("contact-email").value 
-              + "\nMessage: " 
-              + document.getElementById("Contact-Message-Field-02").value,
-          }).then(
-            message => alert(message)
-          );
-        }
-      </script>
     </section>
     
     <div class="f-footer-small-2">
